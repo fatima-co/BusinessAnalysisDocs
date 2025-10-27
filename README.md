@@ -37,4 +37,4 @@ It impacts reporting, filtering, and integrations in Power Platform.
 
 ✍️ **Author:** fatima-co
 📅 **Date:** October 2025  
-🔗 **LinkedIn:** [Link to your LinkedIn profile or post]
+🔗 **LinkedIn:** https://www.linkedin.com/posts/fatimakhodaei_fields-in-dynamics365-activity-7388129782653214720-ScEv?utm_source=share&utm_medium=member_android&rcm=ACoAACgDlwYBETzVleV0vOKOxUM_fv8MdngRidU
