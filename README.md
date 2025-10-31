@@ -1,40 +1,68 @@
-# 🧩 Understanding Field Types in Dynamics 365
+# 📘 Business Analysis & Dynamics 365 Docs  
 
-When creating a new field in Dynamics 365 (Dataverse), you can choose from different **data types** depending on what kind of information you want to store.  
-Choosing the right type is important — it affects how data is stored, displayed, and integrated across the system.
-
----
-
-## 📸 Screenshot
-![Dynamics 365 Field Types](Fields.png)
+A structured collection of technical notes, guides, and visual explanations  
+by **[Fatima Khodaei](https://www.linkedin.com/in/fatimakhodaei/)** — focusing on  
+Microsoft **Dynamics 365**, **Power Platform**, and **Business Analysis** concepts.
 
 ---
 
-## 🔍 Common Field Types
-
-| Field Type | Description | Example |
-|-------------|-------------|----------|
-| **Single Line of Text** | Stores short text values such as names or titles. | Customer Name |
-| **Multiple Lines of Text** | Stores longer text values, such as notes or comments. | Description |
-| **Option Set** | Displays a dropdown list of predefined options. | Status (Active / Inactive) |
-| **MultiSelect Option Set** | Allows selection of multiple options from a list. | Preferred Contact Methods |
-| **Two Options** | Represents Yes/No, True/False, or On/Off values. | Is Active |
-| **Whole Number** | Stores integer numbers. | Quantity |
-| **Decimal Number** | Stores decimal numbers with defined precision. | Weight |
-| **Floating Point Number** | For approximate numeric values with floating precision. | Temperature |
-| **Currency** | Used for money values, formatted by currency settings. | Invoice Amount |
-| **Date and Time** | Stores date or date & time values. | Created On |
-| **Lookup** | Links this record to another entity/table. | Account |
-| **Image** | Used to store a picture or image file. | Product Image |
-| **File** | Allows file uploads within a record. | Attachment |
+## 🧠 Purpose  
+This repository is a growing library of real-world documentation and solution design notes created from my daily experience as a Dynamics 365 consultant and analyst.  
+All materials are written for clarity, reusability, and bilingual reference (English / Persian).
 
 ---
 
-💡 **Tip:** Choose your field type carefully!  
-It impacts reporting, filtering, and integrations in Power Platform.
+## 📂 Table of Contents  
+
+### 🧩 Logic Design  
+Guides on where and how to implement logic across Dynamics 365 layers.  
+- [Form vs Server Logic](./LogicDesign/form-vs-server-logic.md)  
+- (coming soon) **Workflow vs Plugin**  
+- (coming soon) **Synchronous vs Asynchronous Execution**  
 
 ---
 
-✍️ **Author:** fatima-co
-📅 **Date:** October 2025  
-🔗 **LinkedIn:** https://www.linkedin.com/posts/fatimakhodaei_fields-in-dynamics365-activity-7388129782653214720-ScEv?utm_source=share&utm_medium=member_android&rcm=ACoAACgDlwYBETzVleV0vOKOxUM_fv8MdngRidU
+### 🧱 Entity & Field Structure  
+Best practices for defining entities, relationships, and data fields.  
+- [Field Types in Dynamics 365](./FieldTypes/field-types.md)  
+- (coming soon) **Calculated vs Rollup Fields**  
+- (coming soon) **Customer Field Explained**  
+
+---
+
+### ⚙️ Automation & Processes  
+Documentation for building automation and workflows efficiently.  
+- (coming soon) **Business Rules Explained**  
+- (coming soon) **Power Automate Triggers in Dataverse**  
+- (coming soon) **Process Flow Examples (BPF)**  
+
+---
+
+### 🧾 Reporting & Insights  
+Notes and configurations for Power BI, SSRS, and analytical views.  
+- (coming soon) **Building Reports with SSRS in Dynamics 365**  
+- (coming soon) **Dataverse & Power BI Integration**  
+
+---
+
+### 🧭 Solution Architecture  
+Design frameworks, decision matrices, and best practices.  
+- (coming soon) **Solution Design Matrix**  
+- (coming soon) **Environment Strategy & ALM Guidelines**  
+
+---
+
+## 🧑‍💻 About the Author  
+
+👩‍💼 **Fatima Khodaei**  
+Dynamics 365 Consultant | Business Analyst | Power Platform Enthusiast  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/fatimakhodaei/)  
+📂 [GitHub Projects](https://github.com/fatima-co)  
+
+---
+
+## 🏷️ Tags  
+`#Dynamics365` `#PowerPlatform` `#BusinessRules` `#Plugins` `#SolutionArchitecture` `#CRMDesign`  
+
+---
