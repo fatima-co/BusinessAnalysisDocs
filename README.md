@@ -23,8 +23,7 @@ Guides on where and how to implement logic across Dynamics 365 layers.
 ---
 
 ### 🧱 Entity & Field Structure  
-Best practices for defining entities, relationships, and data fields.  
-- [Field Types in Dynamics 365](./FieldTypes/field-types.md)  
+Best practices for defining entities, relationships, and data fields.   
 - (coming soon) **Calculated vs Rollup Fields**  
 - (coming soon) **Customer Field Explained**  
 
